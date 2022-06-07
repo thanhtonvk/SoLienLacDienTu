@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/activity_subjects_activity.xml" value="0.25" />
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/fragment_home.xml" value="0.11261261261261261" />
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/fragment_person.xml" value="0.536" />
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/fragment_result.xml" value="0.264" />
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/ketqua_adapter.xml" value="0.11261261261261261" />
+        <entry key="..\:/NamHoc_2021-2022/7. DoAn4/SoLLDienTu/app/src/main/res/layout/subject_adapter.xml" value="0.11261261261261261" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/drawable/bg_stroke.xml" value="0.23063063063063063" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/drawable/btn_login.xml" value="0.23063063063063063" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/drawable/ic_bell.xml" value="0.23063063063063063" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/drawable/ic_book_subject.xml" value="0.23063063063063063" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/drawable/ic_circle_big_24.xml" value="0.23063063063063063" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/layout/activity_login.xml" value="0.21666666666666667" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/layout/activity_subjects_activity.xml" value="0.21666666666666667" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/layout/fragment_home.xml" value="0.21666666666666667" />
+        <entry key="..\:/NamHoc_2021-2022/SoLLDienTu/app/src/main/res/layout/fragment_person.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
